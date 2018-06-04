@@ -1,0 +1,1 @@
+activate CarND-Term1 & jupyter notebook LeNet-Lab.ipynb
